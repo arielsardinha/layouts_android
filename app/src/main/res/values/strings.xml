@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nome_pessoa">Nome:</string>
+    <string name="nome_idioma">Idioma:</string>
+    <string name="txt_ingles">Inglês</string>
+    <string name="txt_alemao">Alemão</string>
+    <string name="txt_titulo">Titulo</string>
+    <string name="txt_subtitulo">Subtitulo</string>
+    <string name="txt_btn_ok">Ok !</string>
+    <string name="nome_curso">Android basico</string>
+    <string name="txt_btn1">1</string>
+    <string name="txt_btn2">2</string>
+    <string name="txt_btn3">3</string>
+    <string name="txt_btn4">4</string>
+</resources>
